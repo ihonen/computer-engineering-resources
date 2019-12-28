@@ -2,7 +2,7 @@
 
 ## Articles
 
-- [Software optimization manuals](https://agner.org/optimize/#manuals) (Agner Fog)
+- [Optimizing software in C++: An optimization guide for Windows, Linux and Mac platforms](https://agner.org/optimize/#manuals) (Agner Fog)
 - [What every programmer should know about memory](https://lwn.net/Articles/250967/) (Ulrich Drepper)
 
 ## Books/ebooks
