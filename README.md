@@ -1,4 +1,4 @@
-# Material to deepen your understanding of computer engineering
+# Material for deeper understanding of computer engineering
 
 ## Books/ebooks
 
