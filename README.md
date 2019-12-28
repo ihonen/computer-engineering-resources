@@ -16,3 +16,4 @@
 ## Educational videos
 
 - [Building an 8-bit breadboard computer!](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU) (Ben Eater)
+- [Compilers and Interpreters](https://bit.ly/2ZLaRRA) (Alex Aiken, Stanford University)
