@@ -9,6 +9,6 @@
 ## Articles
 
 - [The microarchitecture of Intel, AMD and VIA CPUs: An optimization guide for assembly programmers and compiler makers](https://agner.org/optimize/#manuals) (Agner Fog)
-- [The Ten Commandments of Excellent Design](http://www.mrc.uidaho.edu/mrc/people/jff/vhdl_info/Ten_Commandments_2P.pdf) (Peter Chambers)
+- [The Ten Commandments of Excellent [HDL] Design](http://www.mrc.uidaho.edu/mrc/people/jff/vhdl_info/Ten_Commandments_2P.pdf) (Peter Chambers)
 - [Optimizing software in C++: An optimization guide for Windows, Linux and Mac platforms](https://agner.org/optimize/#manuals) (Agner Fog)
 - [What every programmer should know about memory](https://lwn.net/Articles/250967/) (Ulrich Drepper)
