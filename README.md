@@ -2,6 +2,7 @@
 
 ## Articles
 
+- [The microarchitecture of Intel, AMD and VIA CPUs: An optimization guide for assembly programmers and compiler makers](https://agner.org/optimize/#manuals)
 - [Optimizing software in C++: An optimization guide for Windows, Linux and Mac platforms](https://agner.org/optimize/#manuals) (Agner Fog)
 - [What every programmer should know about memory](https://lwn.net/Articles/250967/) (Ulrich Drepper)
 
