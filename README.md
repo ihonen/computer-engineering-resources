@@ -1,6 +1,6 @@
-# Material for deeper understanding of computer engineering
+# Recommendations for computer engineering students
 
-## Recommended (e)books
+## Illustrious (e)books
 
 - [Computer Organization and Design: The Hardware/Software Interface](https://www.amazon.com/Computer-Organization-Design-MIPS-Architecture/dp/0124077269) (David A. Patterson, John L. Hennessy)
 - [Linux Device Drivers. Where the Kernel Meets the Hardware](https://lwn.net/Kernel/LDD3/) (Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman)
