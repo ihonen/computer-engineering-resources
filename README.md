@@ -1,6 +1,6 @@
 # Literary recommendations for aspiring computer engineers
 
-## Illustrious (e)books
+## Luminous (e)books
 
 - [Computer Organization and Design: The Hardware/Software Interface](https://www.amazon.com/Computer-Organization-Design-MIPS-Architecture/dp/0124077269) (David A. Patterson, John L. Hennessy)
 - [Linux Device Drivers. Where the Kernel Meets the Hardware](https://lwn.net/Kernel/LDD3/) (Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman)
@@ -12,3 +12,7 @@
 - [The microarchitecture of Intel, AMD and VIA CPUs: An optimization guide for assembly programmers and compiler makers](https://agner.org/optimize/#manuals) (Agner Fog)
 - [The Ten Commandments of Excellent [HDL] Design](http://www.mrc.uidaho.edu/mrc/people/jff/vhdl_info/Ten_Commandments_2P.pdf) (Peter Chambers)
 - [What every programmer should know about memory](https://lwn.net/Articles/250967/) (Ulrich Drepper)
+
+## Educational videos
+
+- [Building an 8-bit breadboard computer!](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU) (Ben Eater)
