@@ -1,4 +1,4 @@
-# Recommendations for computer engineering students
+# Literary recommendations for my fellow computer engineering students
 
 ## Illustrious (e)books
 
