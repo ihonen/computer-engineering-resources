@@ -1,4 +1,4 @@
-# Must-read computer engineering material for university students
+# Material to deepen your understanding of computer engineering
 
 ## Books/ebooks
 
