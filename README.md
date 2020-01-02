@@ -2,6 +2,7 @@
 
 ## Books
 
+- [Assemblers and Loaders](http://www.davidsalomon.name/assem.advertis/AssemAd.html) (David Salomon)
 - [Computer Organization and Design: The Hardware/Software Interface](https://www.amazon.com/Computer-Organization-Design-MIPS-Architecture/dp/0124077269) (David A. Patterson, John L. Hennessy)
 - [Linux Device Drivers. Where the Kernel Meets the Hardware](https://lwn.net/Kernel/LDD3/) (Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman)
 - [Principles of Modern Operating Systems](https://www.amazon.com/Principles-Modern-Operating-Systems-Garrido/dp/1449626343) (José M. Garrido, Richard Schlesinger, Kenneth Hoganson)
