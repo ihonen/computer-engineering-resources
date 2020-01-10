@@ -17,6 +17,7 @@ This collection does **not** even attempt to be an all-encompassing list of book
 - [Embedded System Design: Modeling, Synthesis and Verification](https://www.amazon.com/Embedded-System-Design-Synthesis-Verification/dp/1441905030) (Daniel D. Gajski, Samar Abdi, Andreas Gerstlauer, Gunar Schirner)
 - [Linux Device Drivers. Where the Kernel Meets the Hardware](https://lwn.net/Kernel/LDD3/) (Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman)
 - [Principles of Modern Operating Systems](https://www.amazon.com/Principles-Modern-Operating-Systems-Garrido/dp/1449626343) (José M. Garrido, Richard Schlesinger, Kenneth Hoganson)
+- [RTL Hardware Design Using VHDL: Coding for Efficiency, Portability, and Scalability](https://www.amazon.com/RTL-Hardware-Design-Using-VHDL/dp/0471720925) (Pong P. Chu)
 
 ## Articles
 
