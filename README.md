@@ -6,7 +6,7 @@ This is a collection of literature that
 - I have read and had a particularly satisfying learning experience with **or**
 - I haven't read but I plan to read and expect to learn a lot
 
-This collection does **not** even attempt to be an all-encompassing list of books computer engineering students should read - it is simply a collection of books for intermediate/advanced students that I happened to think are worth a mention.
+This collection does **not** even attempt to be an all-encompassing list of books computer engineering students should read - it is simply a collection of books for intermediate/advanced students that I happened to think are worth a mention. Some of the books also serve as course textbooks at Tampere University.
 
 ## Books
 
@@ -14,6 +14,7 @@ This collection does **not** even attempt to be an all-encompassing list of book
 - [Computer Architecture: A Quantitative Approach](https://www.amazon.com/Computer-Architecture-Quantitative-Approach-Kaufmann/dp/0128119055) (David A. Patterson, John L. Hennessy)
 - [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-6th/dp/0132856204) (James F. Kurose, Keith W. Ross)
 - [Computer Organization and Design: The Hardware/Software Interface](https://www.amazon.com/Computer-Organization-Design-MIPS-Architecture/dp/0124077269) (David A. Patterson, John L. Hennessy)
+- [Embedded System Design: Modeling, Synthesis and Verification](https://www.amazon.com/Embedded-System-Design-Synthesis-Verification/dp/1441905030) (Daniel D. Gajski, Samar Abdi, Andreas Gerstlauer, Gunar Schirner)
 - [Linux Device Drivers. Where the Kernel Meets the Hardware](https://lwn.net/Kernel/LDD3/) (Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman)
 - [Principles of Modern Operating Systems](https://www.amazon.com/Principles-Modern-Operating-Systems-Garrido/dp/1449626343) (José M. Garrido, Richard Schlesinger, Kenneth Hoganson)
 
