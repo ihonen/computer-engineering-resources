@@ -1,6 +1,6 @@
 # Literary recommendations for aspiring computer engineers (including myself)
 
-## What is this collection? Who is it for?
+## What is this collection? Whom is it for?
 
 This is a collection of literature that
 - I have read and had a particularly satisfying learning experience with
