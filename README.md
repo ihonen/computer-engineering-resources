@@ -19,6 +19,7 @@ This collection does **not** even attempt to be an all-encompassing list of book
 - [Principles of Modern Operating Systems](https://www.amazon.com/Principles-Modern-Operating-Systems-Garrido/dp/1449626343) (José M. Garrido, Richard Schlesinger, Kenneth Hoganson)
 - [RTL Hardware Design Using VHDL: Coding for Efficiency, Portability, and Scalability](https://www.amazon.com/RTL-Hardware-Design-Using-VHDL/dp/0471720925) (Pong P. Chu)
 - [SystemC: From the Ground Up](https://www.amazon.com/SystemC-Ground-David-C-Black/dp/8181288432) (David C. Black)
+- [The art of Assembly Language Programming](http://www.plantation-productions.com/Webster/www.artofasm.com/index.html) (Randall Hyde)
 
 ## Articles
 
