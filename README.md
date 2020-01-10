@@ -17,6 +17,7 @@ This collection does **not** even attempt to be an all-encompassing list of book
 - [Embedded System Design: Modeling, Synthesis and Verification](https://www.amazon.com/Embedded-System-Design-Synthesis-Verification/dp/1441905030) (Daniel D. Gajski, Samar Abdi, Andreas Gerstlauer, Gunar Schirner)
 - [Linux Device Drivers. Where the Kernel Meets the Hardware](https://lwn.net/Kernel/LDD3/) (Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman)
 - [Principles of Modern Operating Systems](https://www.amazon.com/Principles-Modern-Operating-Systems-Garrido/dp/1449626343) (José M. Garrido, Richard Schlesinger, Kenneth Hoganson)
+- [Programming from the Ground Up](amazon.com/Programming-Ground-Up-Jonathan-Bartlett/dp/1616100648)(Jonathan Bartlett)
 - [RTL Hardware Design Using VHDL: Coding for Efficiency, Portability, and Scalability](https://www.amazon.com/RTL-Hardware-Design-Using-VHDL/dp/0471720925) (Pong P. Chu)
 - [SystemC: From the Ground Up](https://www.amazon.com/SystemC-Ground-David-C-Black/dp/8181288432) (David C. Black)
 - [The art of Assembly Language Programming](http://www.plantation-productions.com/Webster/www.artofasm.com/index.html) (Randall Hyde)
