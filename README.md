@@ -3,7 +3,7 @@
 ## What is this collection? Whom is it for?
 
 This is a collection of literature that
-- I have read and had a particularly satisfying learning experience with
+- I have read and had a particularly satisfying learning experience with **or**
 - I haven't read but I plan to read and expect to learn a lot
 
 This collection does NOT even attempt to be an all-encompassing list of books computer engineering students should read - it is simply a collection of books for intermediate/advanced students that I happened to think is worth listing here.
