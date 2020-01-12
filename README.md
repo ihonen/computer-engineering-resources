@@ -29,6 +29,7 @@ This collection does **not** even attempt to be an all-encompassing list of book
 - [The microarchitecture of Intel, AMD and VIA CPUs: An optimization guide for assembly programmers and compiler makers](https://agner.org/optimize/#manuals) (Agner Fog)
 - [The Ten Commandments of Excellent [HDL] Design](http://www.mrc.uidaho.edu/mrc/people/jff/vhdl_info/Ten_Commandments_2P.pdf) (Peter Chambers)
 - [What every programmer should know about memory](https://lwn.net/Articles/250967/) (Ulrich Drepper)
+- [x86 paging tutorial](https://cirosantilli.com/x86-paging) (Xiro Santilli)
 
 ## Videos
 
